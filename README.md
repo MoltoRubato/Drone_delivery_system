@@ -1,5 +1,7 @@
 # Droning On - Drone-Based Parcel Delivery Simulation
 
+![image](https://github.com/user-attachments/assets/8d0cafb5-2044-42f3-9691-dcb500b6fa26)
+
 ## Overview
 
 **Droning On** is a drone-based parcel delivery simulation system developed by Delivering Solutions Inc. (DS). It models the behaviour of a fleet of delivery drones operating from a dispatch centre to suburban homes, simulating parcel deliveries in compliance with Australian Government regulations.
